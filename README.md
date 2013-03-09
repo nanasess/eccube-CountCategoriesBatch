@@ -1,2 +1,2 @@
-EC-CUBE for Async count categories.
-===================================
+EC-CUBE for Asynchronous count categories.
+==========================================
